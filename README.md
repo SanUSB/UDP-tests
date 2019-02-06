@@ -1,4 +1,4 @@
-# UDP-tests
+# UDP-tests - IP= 192.168.0.103
 
 Different ways of communication for the Raspberry Pie and Matlab via UDP. I'm using the timeit module to call a timer in order to get a time between receiving, unpacking and printing (important to notice that I use this way of chronographing with my work with the multiwii board), so, you will see very small numbers... 
 
