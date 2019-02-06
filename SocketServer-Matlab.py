@@ -18,7 +18,7 @@ import time
 #Raspberry pie IP address
 #UDP_IP = "172.30.144.154"
 #Mac IP address
-UDP_IP = "130.209.27.59"
+UDP_IP = "192.168.0.103"
 #UDP_IP = "localhost"
 UDP_PORT = 51001
 
